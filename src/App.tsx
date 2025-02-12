@@ -1,4 +1,3 @@
-import React from 'react';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import Campaign from './pages/Campaign';
 import Campaigns from './pages/Campaigns';
